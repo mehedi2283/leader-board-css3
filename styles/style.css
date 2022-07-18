@@ -149,6 +149,9 @@ hr{
         .blog{
             flex-direction: column;
         }
+        .courses{
+            row-gap: 10px;
+        }
         
        }
 
