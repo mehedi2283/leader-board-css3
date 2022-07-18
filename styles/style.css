@@ -149,8 +149,14 @@ hr{
         .blog{
             flex-direction: column;
         }
+       
         .courses{
+            
             row-gap: 10px;
+            justify-content: center;
+        }
+        .thumbnail img{
+            padding-left: 24px;
         }
         
        }
