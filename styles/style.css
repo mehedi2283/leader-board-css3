@@ -178,6 +178,11 @@ hr{
 
         
        }
+       .courses{
+            
+        row-gap: 10px;
+        justify-content: center;
+    }
 
     
 
